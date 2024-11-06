@@ -1,0 +1,4 @@
+name: waterthing
+version: '1.0-SNAPSHOT'
+main: net.hynse.waterthing.Waterthing
+api-version: '1.21'
